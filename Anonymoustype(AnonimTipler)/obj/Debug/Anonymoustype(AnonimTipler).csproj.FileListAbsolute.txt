@@ -1,0 +1,10 @@
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\bin\Debug\Anonymoustype(AnonimTipler).exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\bin\Debug\Anonymoustype(AnonimTipler).exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\bin\Debug\Anonymoustype(AnonimTipler).pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\obj\Debug\Anonymoustype(AnonimTipler).csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\obj\Debug\Anonymoustype_AnonimTipler_.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\obj\Debug\Anonymoustype_AnonimTipler_.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\obj\Debug\Anonymoustype(AnonimTipler).csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\obj\Debug\Anonymoustype(AnonimTipler).csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\obj\Debug\Anonymoustype(AnonimTipler).exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Anonymoustype(AnonimTipler)\Anonymoustype(AnonimTipler)\obj\Debug\Anonymoustype(AnonimTipler).pdb
